@@ -1,2 +1,3 @@
-halo //timon
-Mijn bestand // felix
+Tweede input // felix halo //timon
+Mijn bestand 
+// felix
